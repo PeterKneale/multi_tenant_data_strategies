@@ -1,1 +1,5 @@
-# Multi Tenant Data Strategies
+# Multi Tenant Patterns
+
+## Data Isolation
+
+### A - Add tenant_id to queries manually
